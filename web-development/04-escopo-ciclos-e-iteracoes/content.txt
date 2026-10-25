@@ -1,0 +1,3 @@
+global - defino no inicio do código e rodo em qualquer lugar do meu código
+bloco - toma decisão, parte dele é executado (limitados por chaves {})
+função - todos os seus passos quando eu chamo (um tipo de bloco)
