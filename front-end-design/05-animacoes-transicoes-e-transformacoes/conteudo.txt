@@ -1,0 +1,15 @@
+Como entender usos e propriedades
+Entender o que a propriedade faz é o objetivo
+
+Gradiente
+-> Noção de profundidade x, y e z
+
+Linear
+-> cor da direita pra esquerda, de uma para outra, no minimo 2 cores
+
+Radial
+-> do centro para extremidade
+
+ABREVIAÇÕES DO EMMENT
+<!-- # chama id -->
+<!-- . chama classe -->
