@@ -1,0 +1,25 @@
+O objetivo é colocar um conjunto de instruções em uma função.
+1 - Declarar a função
+2 - Invocar a função
+
+function -> palavra reservada
+nomedavariavel -> nome da sua variavel
+() -> os parametros, obrigatorio
+{
+    aqui dentro vai o escopo da função, o que será executado
+}
+
+Metodo = so funciona dentro de uma função
+Função = funciona sozinha
+-> Geralmente ambos utilizam ()
+
+// const num = prompt('Número: ')
+// const dobro = Number(num * 2)
+// alert(`O dobro do número digitado é: R$ ${dobro.toFixed(2)}`)
+
+// Calcule o valor da gorjeta do garçom e o valor da conta
+
+const jantar = parseFloat(prompt('Digite o valor do seu jantar'))
+const taxa = jantar * 0.1
+const totaldacompra = parseFloat(jantar + taxa)
+alert(`Valor inicial da compra: R$ ${jantar.toFixed(2)}\nGorjeta do garçom: R$ ${taxa.toFixed(2)}\nValor total da compra: R$ ${totaldacompra.toFixed(2)}`)
