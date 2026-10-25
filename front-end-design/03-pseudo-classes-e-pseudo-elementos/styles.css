@@ -1,0 +1,87 @@
+/* Dinamic */
+div {
+    color: red;
+}
+
+div:hover {
+    color: yellow;
+    background-color: red;
+}
+
+a:active {
+    color: green;
+}
+
+a:visited {
+    color: red;
+}
+
+/* input:focus {
+    background-color: yellow;
+} */
+
+/* Sctructure */
+
+/* li:first-child {
+    /*Pega o primeiro*/
+/* color: orange;
+} */
+
+/* li:last-child {
+    /*Pega o último*/
+/* color: red;
+} */
+*/ */
+/* :checked{
+    margin-left: 40px;
+}
+
+input[type='radio']:checked{
+
+} */
+
+input[type='email']:valid {
+    background-color: green;
+}
+
+input[type='email']:invalid {
+    background-color: orange;
+}
+
+/* input:required {
+    background-color: red;
+}
+
+input:disabled {
+    background-color: grey;
+} */
+
+/* It can start disabled, but usually is changed with JavaScript */
+
+p::first-letter {
+    font-size: 28px;
+    line-height: 1;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 8px;
+    margin-top: 6px;
+}
+
+p::first-line {
+    color: blue;
+}
+
+p::selection {
+    /*To selected text*/
+    background-color: black;
+    color: white;
+}
+
+::marker {
+    font-size: 32px;
+    color: red;
+}
+
+::placeholder {
+    color: rgb(173, 177, 230);
+}
