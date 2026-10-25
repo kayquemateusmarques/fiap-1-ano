@@ -1,0 +1,52 @@
+.caixadois {
+    border: 3px solid;
+    border-color: red;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap;
+}
+
+.coluna {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    border: 1px dotted;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin: 2px;
+    border-style: dashed;
+}
+
+#item1 {
+    background-color: #98e8fc;
+    color: blue;
+}
+
+#item2 {
+    background-color: #a1ffa9;
+    color: green;
+}
+
+#item3 {
+    background-color: #e66686;
+    color: red;
+}
+
+#item4 {
+    background-color: #ffc06e;
+    color: orange;
+}
+
+#item5 {
+    background-color: #3be8ee;
+    color: blue;
+}
