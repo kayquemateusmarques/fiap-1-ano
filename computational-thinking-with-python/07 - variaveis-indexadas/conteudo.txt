@@ -1,0 +1,8 @@
+Variáveis Indexadas < tema geral
+
+Vetor é um tipo de lista.
+O Python especificamente não trabalha com vetores, mas sim com conceito de listas, as quais possuem índices e conteúdo.
+
+     0  1  2  <== índices
+v = [1, 2, 3]
+print[0] ==> Exibe o número '1', que corresponde ao dado de índice 0
