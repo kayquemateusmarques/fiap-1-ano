@@ -12,6 +12,7 @@ Exercícios e anotações da disciplina de Pensamento Computacional com Python, 
 | 04 | [match-case](04-match-case/)                                            | 28/set |
 | 05 | [Laço for](05-laco-for/)                                                | 05/out |
 | 06 | [Laço while](06-laco-while/)                                            | 19/out |
+| 07 | [Conceito de Vetor](07-variaveis-indexadas/)                            | 26/out |
 
 ## Como rodar
 
